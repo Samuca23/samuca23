@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre:
 🧑‍💻Olá, me chamo Samuel e tenho 22 anos<br>🔭Atualmente sou Programador PHP.<br>🌱 Em constante aprendizagem<br>
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-chiodini-5621931b3) 
 
 # 💻 Tech Stack:
@@ -10,6 +10,5 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samuca23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samuca23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuca23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
