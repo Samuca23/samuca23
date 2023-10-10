@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🧑‍💻Olá, me chamo Samuel e tenho 22 anos<br>🔭Atualmente sou Programador PHP.<br>🌱 Em constante aprendizagem<br>
+🧑‍💻Olá, me chamo Samuel e tenho 22 anos<br>🔭Atualmente sou Desenvolver Full Stack.<br>🌱 Em constante aprendizagem<br>
 
 
 ## 🌐 Redes Sociais:
