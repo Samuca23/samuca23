@@ -11,8 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Samuca23&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Samuca23&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuca23&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
