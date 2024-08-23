@@ -1,5 +1,4 @@
 # 💫 About Me:
-Full Stack Developer | DevOps Enthusiast 
 
 Full Stack Developer with strong specialization in Java and Python, and experience
 relevant in PHP. DevOps enthusiast, with extensive experience in creating and
