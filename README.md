@@ -10,7 +10,7 @@ I actively leverage AI-assisted development tools to enhance productivity, accel
 # 💻 Tech Stack:
 AI-Assisted Development: Claude, GitHub Copilot, Windsurf, ChatGPT, Cursor • MCP and specialized sub-agents • Development workflow automation • AI-driven productivity in software engineering.
 
-Backend: Java, Python, PHP, Go • Spring Boot, Spring Data, Spring Security, FastAPI, Django, Laravel • REST APIs • Kafka, RabbitMQ • Redis • PostgreSQL, MySQL, Oracle • Monolithic and Microservices architectures •JUnit, Mockito • Swagger / OpenAPI
+Backend: Java, Python, Go • Spring Boot, Spring Data, Spring Security, FastAPI, Django • REST APIs • Kafka, RabbitMQ • Redis • PostgreSQL, MySQL, Oracle • Monolithic and Microservices architectures •JUnit, Mockito • Swagger / OpenAPI
 
 DevOps: Docker, Kubernetes • GitHub Actions, GitLab CI/CD • AWS • Grafana, Prometheus
 
